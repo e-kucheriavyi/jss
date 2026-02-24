@@ -74,6 +74,7 @@ console.log(p2.load())
 - Sending strings
 - Byte marker of struct type
 - Passing initial struct data
+- Arrays
 
 ## Support
 
